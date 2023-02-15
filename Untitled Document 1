@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>c4q1</title>
+</head>
+<body>
+<h2><b>MATHS FUNCTIONS</b></h2>
+<p id="demo"></p>
+<script>
+document.getElementById("demo").innerHTML = hi
+</script>
+</body>
+</html>
+
